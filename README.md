@@ -17,5 +17,5 @@ dmenu should put it's binary in ```/usr/local/bin``` by default, but if it doesn
 
 # Patching in more features 
 
-More patches can be found at https://tools.suckless.org/dmenu/patches/
+More patches can be found at https://tools.suckless.org/dmenu/patches/ \
 Credit for those patches goes to their respective authors.
